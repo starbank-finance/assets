@@ -1,0 +1,42 @@
+{
+  "ms": 25,
+  "query": "",
+  "result": {
+    "keywords": ["starbank", "default", "astar"],
+    "logoURI": "",
+    "name": "Starbank",
+    "tags": {},
+    "timestamp": "",
+    "tokens": [
+      {
+        "name": "Shiden",
+        "address": "0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4",
+        "symbol": "WSDN",
+        "decimals": 18,
+        "chainId": 592,
+        "logoURI": "https://arthswapv1-demo-app.s3.ap-northeast-1.amazonaws.com/images/coins/0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720.png"
+      },
+      {
+        "name": "USDC",
+        "address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+        "symbol": "USDC",
+        "decimals": 6,
+        "chainId": 592,
+        "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png"
+      },
+      {
+        "name": "DAI",
+        "address": "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
+        "symbol": "DAI",
+        "decimals": 18,
+        "chainId": 592,
+        "logoURI": "https://get.celer.app/cbridge-icons/DAI.png"
+      }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 2
+    }
+  }
+}
