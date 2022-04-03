@@ -87,6 +87,14 @@
         "decimals": 18,
         "chainId": 592,
         "logoURI": "https://raw.githubusercontent.com/starbank-finance/assets/main/images/astar/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E.png"
+      },
+      {
+        "name": "USDT",
+        "address": "0x3795C36e7D12A8c252A20C5a7B455f7c57b60283",
+        "symbol": "USDT",
+        "decimals": 6,
+        "chainId": 592,
+        "logoURI": "https://raw.githubusercontent.com/starbank-finance/assets/main/images/astar/0x3795C36e7D12A8c252A20C5a7B455f7c57b60283.png"
       }
     ],
     "version": {
