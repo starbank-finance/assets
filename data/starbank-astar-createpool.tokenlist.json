@@ -17,6 +17,14 @@
         "logoURI": "https://raw.githubusercontent.com/starbank-finance/assets/main/images/astar/0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720.png"
       },
       {
+        "name": "Dummy",
+        "address": "0x981FF1EF4A1683Af521243DF5Cf84Be505D8C59a",
+        "symbol": "Dummy",
+        "decimals": 18,
+        "chainId": 592,
+        "logoURI": "https://raw.githubusercontent.com/starbank-finance/assets/main/images/astar/0x981FF1EF4A1683Af521243DF5Cf84Be505D8C59a.png"
+      },
+      {
         "name": "Shiden",
         "address": "0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4",
         "symbol": "WSDN",
