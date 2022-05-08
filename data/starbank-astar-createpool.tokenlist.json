@@ -18,6 +18,14 @@
         "logoURI": "https://raw.githubusercontent.com/starbank-finance/assets/main/images/astar/0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720.png"
       },
       {
+        "name": "StarBUSD Starbank",
+        "address": "0xc7069C7318258694AdFEEA8243c93678cb319C0C",
+        "symbol": "StarBUSD",
+        "decimals": 18,
+        "chainId": 592,
+        "logoURI": "https://raw.githubusercontent.com/starbank-finance/assets/main/images/astar/0xc7069C7318258694AdFEEA8243c93678cb319C0C.png"
+      },
+      {
         "name": "3Stable Starbank",
         "address": "0x696FCbEBdEBe5494c59bEDD6D26edc19e9D42843",
         "symbol": "3STABLE",
