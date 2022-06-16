@@ -1,0 +1,22 @@
+{
+  "name": "Starbank",
+  "timestamp": "2022-2-22 18:18:18",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 2
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/starbank-finance/assets/main/images/tokens/TWINKLE.png",
+  "keywords": ["harmony", "starbank", "default"],
+  "tokens": [
+    {
+      "name": "Wrapped ONE",
+      "address": "0xcf664087a5bb0237a0bad6742852ec6c8d69a27a",
+      "symbol": "WONE",
+      "decimals": 18,
+      "chainId": 592,
+      "logoURI": "https://raw.githubusercontent.com/starbank-finance/assets/main/images/harmony/0xcf664087a5bb0237a0bad6742852ec6c8d69a27a.png"
+    }
+  ]
+}
