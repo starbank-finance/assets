@@ -1,0 +1,22 @@
+{
+  "name": "Starbank",
+  "timestamp": "2022-2-22 18:18:18",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 2
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/starbank-finance/assets/main/images/tokens/TWINKLE.png",
+  "keywords": ["fantomtest", "starbank", "default"],
+  "tokens": [
+    {
+      "name": "Wrapped FTM",
+      "address": "0x2A9bC7944cb49F446bA8E679eeF4Ecf137A1568f",
+      "symbol": "WFTM",
+      "decimals": 18,
+      "chainId": 4002,
+      "logoURI": "https://raw.githubusercontent.com/starbank-finance/assets/main/images/fantomtest/0x2A9bC7944cb49F446bA8E679eeF4Ecf137A1568f.png"
+    }
+  ]
+}
